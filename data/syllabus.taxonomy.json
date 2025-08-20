@@ -1,0 +1,46 @@
+{
+  "Polity": [
+    "Constitution",
+    "Parliament",
+    "Judiciary",
+    "Federalism",
+    "Policies"
+  ],
+  "Economy": [
+    "Banking",
+    "Budget",
+    "Inflation",
+    "ExternalSector"
+  ],
+  "Geography": [
+    "Physical",
+    "Indian",
+    "World"
+  ],
+  "CurrentAffairs": [
+    "GovtSchemes",
+    "Reports",
+    "IntlOrgs"
+  ],
+  "History": [
+    "Ancient",
+    "Medieval",
+    "Modern",
+    "Culture"
+  ],
+  "ScienceAndTech": [
+    "Biotech",
+    "Space",
+    "IT",
+    "Defense"
+  ],
+  "Environment": [
+    "Biodiversity",
+    "Climate",
+    "ProtectedAreas"
+  ],
+  "CultureMisc": [
+    "Culture",
+    "Misc"
+  ]
+}

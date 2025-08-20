@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2019-GS1-12",
+    "year": 2019,
+    "subject": "Polity",
+    "topic": "Parliament",
+    "question": "With reference to Department-related Parliamentary Standing Committees, consider the following statements: ...",
+    "options": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "DRSCs examine Demands for Grants, consider bills, and report to Parliament, enhancing legislative oversight.",
+    "sources": [
+      {
+        "title": "Rules of Procedure, Lok Sabha",
+        "url": "https://loksabha.nic.in/"
+      }
+    ],
+    "tags": [
+      "Parliament",
+      "Committees"
+    ],
+    "disputed": false,
+    "notes": "",
+    "ca_window": "static"
+  },
+  {
+    "id": "2022-GS1-34",
+    "year": 2022,
+    "subject": "Environment",
+    "topic": "Ramsar",
+    "question": "Which of the following statements about Ramsar Sites is/are correct?",
+    "options": [
+      "They are marine protected areas",
+      "They are wetlands of international importance",
+      "Declared by UNESCO",
+      "None of the above"
+    ],
+    "answer": 1,
+    "explanation": "Ramsar Sites are wetlands of international importance under the Ramsar Convention (1971).",
+    "sources": [
+      {
+        "title": "Ramsar Convention",
+        "url": "https://www.ramsar.org/"
+      }
+    ],
+    "tags": [
+      "Environment",
+      "Wetlands"
+    ],
+    "disputed": false,
+    "notes": "",
+    "ca_window": "static"
+  }
+]
